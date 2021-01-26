@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FireBase</string>
+    <string name="prefs_file">com.example.firebase.PREFERENCE_FILE_KEY</string>
+    <string name="facebook_app_id">2698496187034511</string> <string name="fb_login_protocol_scheme">fb2698496187034511</string>
+</resources>
